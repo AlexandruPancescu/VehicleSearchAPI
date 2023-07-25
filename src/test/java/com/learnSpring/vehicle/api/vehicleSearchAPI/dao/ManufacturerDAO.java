@@ -1,4 +1,4 @@
-package com.learnSpring.vehicle.api.vehicleSearchAPI.entity.dao;
+package com.learnSpring.vehicle.api.vehicleSearchAPI.dao;
 
 import com.learnSpring.vehicle.api.vehicleSearchAPI.entity.Manufacturer;
 import org.springframework.data.jpa.repository.JpaRepository;
